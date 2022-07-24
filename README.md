@@ -1,4 +1,4 @@
-# mimicbot-deploy
+# mimicbot-deploy 🤖
 ## About
 Mimicbot-deploy is an accompanying repository to the [mimicbot](https://github.com/CakeCrusher/mimicbot) cli. It is intended to be used for exclusively deploying the discord bot to a server.
 ## Deploy
