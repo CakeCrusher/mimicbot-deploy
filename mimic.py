@@ -4,7 +4,7 @@ from discord.ext import commands
 import requests
 import pandas as pd
 import json
-import data_preprocessing 
+import data_preprocessing
 import asyncio
 import pdb
 from pathlib import Path
@@ -117,4 +117,6 @@ def start_mimic():
                 await channel.send(response)
 
     bot.run(MIMICBOT_TOKEN)
+
+
 start_mimic()
