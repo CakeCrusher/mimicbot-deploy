@@ -1,1 +1,1 @@
-worker: python3 mimicbot.py & wait -n
+worker: python3 mimic.py & wait -n
