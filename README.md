@@ -12,5 +12,5 @@ To deploy the bot to a server follow the steps below:
 6. Create a heroku app.
 7. [Add the environment variables](https://devcenter.heroku.com/articles/config-vars#using-the-heroku-dashboard) listed in the `.env` file to your heroku app.
 8. Follow the directions in the deploy tab of your heroku app.
-9. After pushing to heroku wait a couple of minutes (~5min). Now navigate to the "Resources" tab of your heroku app, click the edit icon, and toggle on your worker dyno.
+9. After pushing to heroku wait a couple of minutes (~5min). Now navigate to the "Resources" tab of your heroku app, click the edit icon, and toggle on your worker dyno. ![image](https://user-images.githubusercontent.com/37946988/180908556-cb99b68e-2077-4f37-9eca-6157ad3bb9e5.png)
 10. Your bot is now deployed and running!
